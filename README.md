@@ -7,7 +7,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:computer:	Languages and Tools:</h3>
 <p align="left"> 
 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
